@@ -1,2 +1,1 @@
-# clase1-ProgSIG
-Primera clase de programación en sig
+# Este es el primer texto de programacion en sig

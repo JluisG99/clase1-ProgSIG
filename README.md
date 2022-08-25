@@ -39,3 +39,7 @@ Otra línea mas.<Br>
   
  **_Texto en negrita e italica_**  
 Otra Línea más.
+  
+  ### Y para hacer una cita.
+  "*Yo solo sé que no sé nada*"  Sócrates  
+  "*En un lugar de la Mancha...*"  Miguel de Cervantes  

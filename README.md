@@ -65,5 +65,5 @@ Otra Línea más.
   
   #### **Imágenes**  
   
-  ![Navio](https://es.wikipedia.org/wiki/Wikipedia:Portada#/media/Archivo:Yamato_during_Trial_Service.jpg)
+  ![](https://es.wikipedia.org/wiki/Wikipedia:Portada#/media/Archivo:Yamato_during_Trial_Service.jpg)
   

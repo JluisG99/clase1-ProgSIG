@@ -30,4 +30,9 @@ Otra línea.
 Otra línea mas.<Br>
   Y otra línea más.  
 
+  **Texto en negrita**  
+  __Otro texto en negrita__  
+  
+  *Texto en itálicas*  
+  _Otro texto en intálica_  
 Otra Línea más.

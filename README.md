@@ -7,7 +7,7 @@ Enlace al sitio web de la Universidad de Costa Rica
 2. Con _números_  
 * Ó con asteriscos.  
 Con ====== agrego un nuevo encabezado de nivel 1  
-======================================================
+==============================================================================
 
 Ahora debo usar !()[] para agregar un link y con  ---------- encabezado de nivel 2  
 ----------------------------------------------------------------

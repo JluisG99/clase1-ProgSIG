@@ -12,6 +12,9 @@ Con ====== agrego un nuevo encabezado de nivel 1
 
 <h1>Encabezado de nivel 1 en HTML</h1>
 
+**Imagen en sintaxis RM**
+<IMG src="Yamato.jpg" width = "200">
+
 Ahora debo usar !()[] para agregar un link y con  ---------- encabezado de nivel 2  
 ----------------------------------------------------------------
 

@@ -50,7 +50,9 @@ Otra Línea más.
   2. Segundo elemento  
   
   **Lista no numerada**
+  **Y para hacer listas anidadas se debe dejar cuatro espacios**
   
   - Un elemento  
+      * Anidación 1
   - Otro elemento  
   - Un elemento más  

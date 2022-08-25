@@ -34,5 +34,8 @@ Otra línea mas.<Br>
   __Otro texto en negrita__  
   
   *Texto en itálicas*  
-  _Otro texto en intálica_  
+  _Otro texto en intálica_
+  
+  
+ **_Texto en negrita e italica_**  
 Otra Línea más.

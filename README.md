@@ -59,5 +59,7 @@ Otra Línea más.
 
   #### **Links "[]()"**
   
-  [Sitio web UCR](https://www.ucr.ac.cr/actividades/2022/8/)
+  [Sitio web UCR](https://www.ucr.ac.cr/actividades/2022/8/)  
+  
+  [Taller sobre Python Geoespacial](https://2022.foss4g.org/schedule_workshop.php#)  
   

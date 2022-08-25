@@ -42,4 +42,15 @@ Otra Línea más.
   
   ### Y para hacer una cita.
   "*Yo solo sé que no sé nada*"  Sócrates  
-  "*En un lugar de la Mancha...*"  Miguel de Cervantes  
+  "*En un lugar de la Mancha...*"  Miguel de Cervantes 
+  
+  ### Generación de listas.
+  
+  1. Primer elemento  
+  2. Segundo elemento  
+  
+  **Lista no numerada**
+  
+  - Un elemento  
+  - Otro elemento  
+  - Un elemento más  

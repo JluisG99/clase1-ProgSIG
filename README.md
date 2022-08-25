@@ -65,5 +65,5 @@ Otra Línea más.
   
   #### **Imágenes**  
   
-  ![](https://es.wikipedia.org/wiki/Wikipedia:Portada#/media/Archivo:Yamato_during_Trial_Service.jpg)
+  ![](https://www.ucr.ac.cr/medios/fotos/2020/csm_nt20-64_42f1d96d735f773a834a3a8.jpg)
   

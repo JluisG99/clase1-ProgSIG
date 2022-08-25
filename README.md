@@ -70,6 +70,6 @@ Otra Línea más.
   
   ![](https://www.ucr.ac.cr/medios/fotos/2020/csm_nt20-64_42f1d96d735f773a834a3a8.jpg)
   
-  ![](Yamato.jpg)
+  ![Imagen del acorazado japonés Yamato](Yamato.jpg "imagen del acorazado yamato")
   
   ![Braulio Carrillo](https://upload.wikimedia.org/wikipedia/commons/a/a3/BraulioCarrillo1.jpg)

@@ -6,8 +6,15 @@ Enlace al sitio web de la Universidad de Costa Rica
 1. Tambien podemos hacer listas.  
 2. Con _números_  
 * Ó con asteriscos.  
+
 Con ====== agrego un nuevo encabezado de nivel 1  
-=============================
+=================================================
+
+<h1> Encabezado de nivel 1 en HTML </h1>
 
 Ahora debo usar !()[] para agregar un link y con  ---------- encabezado de nivel 2  
 ----------------------------------------------------------------
+
+
+
+<h6> Encabezado de nivel 6 en HTML </h6>

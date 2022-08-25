@@ -57,7 +57,7 @@ Otra Línea más.
   - Otro elemento  
   - Un elemento más  
 
-  #### **Links "[texto](link)"**
+  #### **Links "[]()"**
   
   [Sitio web UCR](https://www.ucr.ac.cr/actividades/2022/8/)
   

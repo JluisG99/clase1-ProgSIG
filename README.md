@@ -69,3 +69,4 @@ Otra Línea más.
   
   ![](Yamato.jpg)
   
+  ![Braulio Carrillo](https://upload.wikimedia.org/wikipedia/commons/a/a3/BraulioCarrillo1.jpg)
